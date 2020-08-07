@@ -1,0 +1,4 @@
+<script>
+      document.forms['myform'].elements['dateformat_id'].value={{$localization->dateformat_id}};
+      document.forms['myform'].elements['timezone_id'].value={{$localization->timezone_id}};
+</script>
